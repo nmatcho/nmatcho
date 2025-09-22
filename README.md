@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/nicmatcho/">Nicolas (Nic) Matcho</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Security+ certified cybersecurity bachelor’s student in senior year, with hands-on internship experience in cloud security support engineering. Skilled in securing cloud environments, analyzing threats, and implementing practical security solutions. Actively pursuing advanced certifications to become a cloud security engineer, with long-term ambitions to lead innovative projects in AI-powered cybersecurity and cloud infrastructure.
 
 
 ## ⚠️ Vulnerability Management Projects
