@@ -9,8 +9,8 @@ Security+ certified cybersecurity bachelor’s student in senior year, with hand
 
 ## ⚠️ Vulnerability Management
 
-- **[Vulnerability Management Program Implementation](https://github.com/nmatcho/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/nmatcho/vulnerability-management-program)**
 
 <hr/>
 
