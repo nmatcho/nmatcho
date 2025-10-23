@@ -2,16 +2,15 @@
 
 Security+ certified cybersecurity bachelor’s student in senior year, with hands-on internship experience in cloud security support engineering. Skilled in securing cloud environments, analyzing threats, and implementing practical security solutions. Actively pursuing advanced certifications to become a cloud security engineer, with long-term ambitions to lead innovative projects in AI-powered cybersecurity and cloud infrastructure.
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Discovering and Eradicating a Linux worm with KQL and Microsoft Sentinel](https://github.com/nmatcho/cron-persistence-worm)**
 
 ## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/nmatcho/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-- **[Discovering and Eradicating a Linux worm with KQL and Microsoft Sentinel](https://github.com/nmatcho/cron-persistence-worm)**
 
 <hr/>
 
