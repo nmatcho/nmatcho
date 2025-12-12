@@ -2,6 +2,18 @@
 
 Security+ certified cybersecurity bachelor’s student in senior year, with hands-on internship experience in cloud security support engineering. Skilled in securing cloud environments, analyzing threats, and implementing practical security solutions. Actively pursuing advanced certifications to become a cloud security engineer, with long-term ambitions to lead innovative projects in AI-powered cybersecurity and cloud infrastructure.
 
+## AI Infrastructure Security Hardening
+
+- **[In progress)**
+
+## Secure Cloud Architecture Implementation
+
+- **[In progress)**
+
+## Active Directory / Entra ID Hardening
+
+- **[In progress)**
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nmatcho/Threat-Hunting-Scenario-Tor-Browser-Usage)**
