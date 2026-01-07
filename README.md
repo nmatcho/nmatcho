@@ -14,7 +14,7 @@ Security+ certified cybersecurity bachelor’s student in senior year, with hand
 
 - **[In progress)**
 
-## Threat Hunting and Security Operations
+## Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nmatcho/Threat-Hunting-Scenario-Tor-Browser-Usage)**
 - **[Discovering and Eradicating a Linux worm with KQL and Microsoft Sentinel](https://github.com/nmatcho/cron-persistence-worm)**
