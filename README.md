@@ -10,7 +10,7 @@ Security+ certified cybersecurity bachelor’s student in senior year, with hand
 
 - **[In progress)**
 
-## Active Directory / Entra ID Hardening
+## Agentic SecOps AI Development
 
 - **[In progress)**
 
