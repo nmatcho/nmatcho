@@ -10,7 +10,7 @@ Security+ certified cybersecurity bachelor’s student in senior year, with hand
 
 - **[In progress)**
 
-## Agentic SecOps AI Development
+## SecOps Automation & Threat Detection Engineering
 
 - **[In progress)**
 
