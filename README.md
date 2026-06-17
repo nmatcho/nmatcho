@@ -19,7 +19,7 @@ Security+ certified cybersecurity bachelor’s student in senior year, with hand
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nmatcho/Threat-Hunting-Scenario-Tor-Browser-Usage)**
 - **[Discovering and Eradicating a Linux worm with KQL and Microsoft Sentinel](https://github.com/nmatcho/cron-persistence-worm)**
 
-## Vulnerability Management
+## Vulnerability Management & Systems Security Hardening
 
 - **[DISA STIG Remediations (PowerShell and Bash)](https://github.com/nmatcho/programmatic-vulnerability-remediations)**
 
