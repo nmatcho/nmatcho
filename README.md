@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/nicmatcho/">Nicolas (Nic) Matcho</a>'s Cybersecurity Project Portfolio
+# <a href="https://www.linkedin.com/in/nicmatcho/">Nicolas (Nic) Matcho</a>'s IT & Cybersecurity Project Portfolio
 
 ## Secure Cloud Architecture Implementation
 
